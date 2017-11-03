@@ -3,19 +3,19 @@
 Intermediate Python
 ===================
 
-Python is an amazing language with a strong and friendly community of programmers. However, there is a lack of documentation on what to learn after getting the basics of Python down your throat. Through this book I aim to solve this problem. I will give you bits of information about some interesting topics which you can further explore.
+Python güçlü ve samimi bir toplulukla beraber harika bir dildir.Buna rağmen, Python'ın temellerini öğrendikten sonraki aşamada döküman eksikliği var.Bu kitapla bu problemi çözmeyi hedefliyorum.Size kitapta karşılaşacağınız konularla ilgili biraz bilgi vereceğim.
 
-The topics which are discussed in this book will open your mind to some nice corners of Python language. This book is an outcome of my desire to have something like this when I was beginning to learn Python.
+Kitapta işlenen konular zihninizi açacak.Bu kitap, ben Python öğrenmeye başladığımda bunun gibi bir kitaba sahip olma isteğinin bir sonucudur.
 
-If you are a beginner, intermediate or even an advanced programmer there is something for you in this book.
+Başlangış, orta ya da üst seviye bir yazılımcı olman önemli değil, kendiniz için bir şeyler bulacaksınız.
 
-Please note that this book is not a tutorial and does not teach you Python. The topics are not explained in-depth and only the minimum required information is given.
+Lütfen bu kitabın size Python tamamen öğretmeyeceğini akılda tutunuz.Konular derinlemesine anlatılmıyor ve sadece minimum gerekli bilgi verilmiştir.
 
-I am sure you are as excited as I am. So, let’s start!
+Eminim sizde benim kadar heyecanlısındır.Başlayalım o zaman!
 
 Note: This book is a work in progress. If you find anything which you can further improve (I know you will find a lot of stuff) then kindly submit a pull request. :)
 
-Moreover, if you want to add more content to this book then kindly submit a pull request and I will be more than happy to merge it. :+1:
+Eğer bu kitaba içerik eklemek isterseniz pull request atabilirsiniz, merge etmekten mutluluk duyacağım.:+1:
 
 -------------------
 
@@ -23,9 +23,9 @@ Moreover, if you want to add more content to this book then kindly submit a pull
 
 -------------------
 
-Table of Contents:
+İçindekiler:
 ------------------
-1) Programmer tools
+1) Araçlar
 
 - [Virtual Environment](virtual_environment.rst)
 - [Debugging](debugging.rst)
@@ -41,7 +41,7 @@ Table of Contents:
 - [\*args and \*\*kwargs](args_and_kwargs.rst)
 - [Context managers](context_managers.rst)
 
-3) Functional programming
+3) Fonksiyonel Programlama
 
 - [Enumerate](enumerate.rst)
 - [Lambdas](lambdas.rst)
@@ -49,29 +49,29 @@ Table of Contents:
 - [Map & Filter](map_filter.rst)
 - [Comprehensions](comprehensions.rst)
 
-4) Data structures
+4) Veri Yapıları
 
 - [Generators](generators.rst)
 - [Coroutines](coroutines.rst)
 
-5) Data types
+5) Veri Tipleri
 
 - [Collections](collections.rst)
 - [Mutation](mutation.rst)
 - [\_\_slots\_\_ Magic](__slots__magic.rst)
 
-6) Decorators
+6) Dekaratörler
 
 - [What is a decorator?](decorators.rst)
 - [Function caching](function_caching.rst)
 
-7) Extras
+7) Ekstralar
 
 - [One Liners](one_liners.rst)
 - [Targeting Python 2+3](targeting_python_2_3.rst)
 - [Python C extensions](python_c_extension.rst)
 
-Author:
+Yazar:
 ------
 
 - [Muhammad Yasoob Ullah Khalid](https://github.com/yasoob)
@@ -83,16 +83,16 @@ Acknowledgement:
 
 He wrote the chapter on Open function. Thanks Philipp! :+1:
 
-Translation:
+Çeviriler
 ------------
-If you want to translate this book in any other language then kindly let [me know](mailto:yasoob.khld@gmail.com). I would love your contribution. The currently translated versions are listed below:
+Eğer bu kitabı başka dillere çevirmek isterseniz bana [haber verin](mailto:yasoob.khld@gmail.com).Katkınız gerçekten çok değerli olacaktır.Şimdiye kadar çevrilmiş versiyonlar:
 
-- [Chinese](https://github.com/eastlakeside/interpy-zh)
-- [Russian](https://github.com/lancelote/interpy-ru)
-- [Korean](https://github.com/DDanggle/interpy-kr)
-- [Portuguese](https://github.com/joanasouza/intermediatePython)
+- [Çince](https://github.com/eastlakeside/interpy-zh)
+- [Rusça](https://github.com/lancelote/interpy-ru)
+- [Korece](https://github.com/DDanggle/interpy-kr)
+- [Portekizce](https://github.com/joanasouza/intermediatePython)
 
-License:
+Lisans:
 -------
 
 This book is released under the [following](http://creativecommons.org/licenses/by-nc-sa/4.0/) CC license (CC BY-NC-SA 4.0).
